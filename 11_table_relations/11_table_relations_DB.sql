@@ -74,4 +74,3 @@ insert into routes(start_point,end_point,leader_id,route_time) values
 ('Ribni Ezera Hut', 'Rila Monastery', 3, '06:00:00'),
 ('Borovets', 'Musala Peak', 4, '03:30:00');
 
-SELECT SYSDATE();
